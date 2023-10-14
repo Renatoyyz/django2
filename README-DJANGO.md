@@ -79,5 +79,14 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 
 ## Criar no MySql Workbench o db (mydb)
 
+## Comandos no Django
+
 ```text
+python manage.py migrate
 ```
+
+```text
+python manage.py createsuperuser
+```
+
+parai aqui e no 11:38 do vídeo
