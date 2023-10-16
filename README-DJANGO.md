@@ -89,4 +89,6 @@ python manage.py migrate
 python manage.py createsuperuser
 ```
 
-parai aqui e no 11:38 do vídeo
+```text
+python manage.py runserver
+```
