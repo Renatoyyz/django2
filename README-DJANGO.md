@@ -82,6 +82,10 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 ## Comandos no Django
 
 ```text
+python manage.py makemigrations
+```
+
+```text
 python manage.py migrate
 ```
 
